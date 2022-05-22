@@ -1,0 +1,2 @@
+import workletURL from 'https://pics.freeicons.io/uploads/icons/png/5963899171548234974-512.png?url'
+CSS.paintWorklet.addModule(workletURL)
